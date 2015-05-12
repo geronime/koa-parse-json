@@ -37,6 +37,8 @@ if `Content-Length` doesn't match with request length, 400 is throwed.
 
 Default `opts.limit` is 1MB.
 
+On empty body set parsed body to empty object.
+
 ## License
 
 MIT
